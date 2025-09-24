@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: linear-gradient(#f0f8ff, #ffffff);
+  margin: 0;
+  padding: 50px;
+  text-align: center;
+}
+.container { 
+  max-width: 700px; margin: 0 auto; padding: 30px; background: #fff; border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+h1 { color: #0a5275; }
+p  { color: #333; }
+
